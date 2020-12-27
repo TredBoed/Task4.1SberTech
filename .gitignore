@@ -1,0 +1,4 @@
+# Project exclude paths
+/ArrayIterator/target/
+/MainModule/target/
+/ObjectSample/target/
